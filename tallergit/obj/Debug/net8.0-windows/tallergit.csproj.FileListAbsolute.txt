@@ -1,0 +1,16 @@
+C:\tallergit\sistema-escolar\tallergit\bin\Debug\net8.0-windows\tallergit.exe
+C:\tallergit\sistema-escolar\tallergit\bin\Debug\net8.0-windows\tallergit.deps.json
+C:\tallergit\sistema-escolar\tallergit\bin\Debug\net8.0-windows\tallergit.runtimeconfig.json
+C:\tallergit\sistema-escolar\tallergit\bin\Debug\net8.0-windows\tallergit.dll
+C:\tallergit\sistema-escolar\tallergit\bin\Debug\net8.0-windows\tallergit.pdb
+C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\tallergit.Form1.resources
+C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\tallergit.csproj.GenerateResource.cache
+C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\tallergit.GeneratedMSBuildEditorConfig.editorconfig
+C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\tallergit.AssemblyInfoInputs.cache
+C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\tallergit.AssemblyInfo.cs
+C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\tallergit.csproj.CoreCompileInputs.cache
+C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\tallergit.dll
+C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\refint\tallergit.dll
+C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\tallergit.pdb
+C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\tallergit.genruntimeconfig.cache
+C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\ref\tallergit.dll
